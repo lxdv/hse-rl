@@ -1,4 +1,4 @@
-## Reinforcement Learning
+# Reinforcement Learning
 
 Lectures, seminar materials and homework for the course **Reinforcement Learning** 
 of master's **Data Mining** program Computer Science faculty 
@@ -6,27 +6,27 @@ of the Higher School of Economics.
 
 *National Research University - Higher School of Economics.* &copy;2019
 
-#### Lesson 1
+## Lesson 1
 
 * Cross Entropy
 * Approximate Cross Entropy
 
-#### Lesson 2
+## Lesson 2
 
 * Value Iteration
 
-#### Lesson 3
+## Lesson 3
 
 * Q-Learning
 
-#### Lesson 4
+## Lesson 4
 
 * Approximate Q-Learning
 
-#### Lesson 5
+## Lesson 5
 
 * Deep Q-Learning
 
-#### Lesson 6
+## Lesson 6
 
 * Reinforce Learning
