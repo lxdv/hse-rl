@@ -1,6 +1,6 @@
 # Reinforcement Learning
 
-Lectures, seminar materials and homework for the course **Reinforcement Learning** 
+Lectures, seminar and homework materials for the course **Reinforcement Learning** 
 of master's **Data Mining** program Computer Science faculty 
 of the Higher School of Economics.
 
