@@ -8,7 +8,7 @@ from replay_buffer import ReplayBuffer
 from framebuffer import FrameBuffer
 
 
-def compute_td_loss(states, actions, rewards, next_states, is_done, gamma=0.99, check_shapes=False):
+def compute_td_loss(states, actions, rewards, next_states, is_done, agent, target_network, gamma=0.99, check_shapes=False):
     """ Compute td loss using torch operations only. Use the formula above. """
     states = Variable(torch.FloatTensor(states))  # shape: [batch_size, c, h, w]
     actions = Variable(torch.LongTensor(actions))  # shape: [batch_size]
